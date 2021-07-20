@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
++title                   :  "Isaac Kb
 title_separator          : "-"
 name                     : &name "Isaac Kobby Anni"
 description              : &description "personal description"
