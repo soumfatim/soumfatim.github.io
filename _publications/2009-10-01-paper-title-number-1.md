@@ -2,7 +2,7 @@
 title: "Diabete classification"
 type: mini-project
 permalink: /publication/2021-03-01-notebook-title-number-1
-excerpt: 'One of my beginner mini projects'
+excerpt: 'Classification metrics for imbalanced dataset'
 
 date: 2021-03-01
 venue: 'Machine & deep learning project'
