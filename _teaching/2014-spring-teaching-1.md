@@ -9,11 +9,13 @@ location: "Accra, Ghana"
 ---
 
 I was a mathematics tutor for pre-tertiary students preparing for University entrance examination.
-<!-- Heading 1
+
+
+Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-====== -->
+======
