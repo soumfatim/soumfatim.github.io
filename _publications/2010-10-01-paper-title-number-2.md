@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Data Manipulations"
+type: mini-project
+permalink: /publication/2021-04-05-notebook-title-number-1
+excerpt: 'Big Data Analytics'
+
+date: 2021-04-05
+venue: 'Machine & deep learning project'
+notebook: 'https://github.com/IkeKobby/Minor-Projects/blob/main/VP5008RP_Big_Data_Data_Mining_Assignment_one.ipynb'
+credit: 'I.K.Anni, Kobby. (2021). &quot;Big Data Analytics and Visualizations.&quot; <i>Machine & deep learning project</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The notebook is quite heavy with visualization of high dimensional dataset. A detailed description of the dataset used for the project is given [here](https://archive.ics.uci.edu/ml/datasets/Multiple+Features). In this project we look out for the best techniques to determine an optimal number of clusters in the given dataset. Due to the volumne of the dataset we have to find the best technique to perform dimensionality reduction to help with two dimensional visuals of the clusters obtained. Details of the various techniques like [LDA](https://en.wikipedia.org/wiki/Linear_discriminant_analysis), [PCA](https://builtin.com/data-science/step-step-explanation-principal-component-analysis), [manifold learning](https://scikit-learn.org/stable/modules/manifold.html) etc.
+[Check out notebook here](https://github.com/IkeKobby/Minor-Projects/blob/main/VP5008RP_Big_Data_Data_Mining_Assignment_one.ipynb)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended credit: I. K. Anni, Kobby. (2021). "Deep learning mini project." <i>Machine & deep learning project</i>. 1(2).
