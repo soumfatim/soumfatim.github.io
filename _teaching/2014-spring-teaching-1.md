@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-teaching
+permalink: /teaching/2014-01-28-teaching
 venue: "Hillside School Complex"
 date: 2014
 location: "Accra, Ghana"
