@@ -66,8 +66,8 @@ Skills
     * Tensorflow 
   * R, SQL, MongoDB, MySQL
 * Business Intelligence
- * Microsoft Excel & Power BI
- * Tableau
+   * Microsoft Excel & Power BI
+   * Tableau
 
 Organisational Skills
 ======
