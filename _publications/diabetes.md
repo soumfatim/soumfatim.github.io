@@ -1,5 +1,5 @@
 ---
-title: "Diabete classification"
+title: "Diabetes classification"
 type: mini-project
 permalink: /publication/2021-03-01-notebook-title-number-1
 excerpt: 'Classification metrics for imbalanced dataset'
