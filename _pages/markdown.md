@@ -6,16 +6,16 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-For more details on some of the works that are it yet on this blog visit [here](https://github.com/IkeKobby/). In this field of Data Science, I believe we can all become the versions of ourselves by holding on to the right resources. I will share a few of the most popular online resources that would be of great help to you. Every Data Scientist is also a googler, a problem solver and hence the need for reliable resources to help ease your sweat.
+For more details on some of the works that are not yet on this blog visit [here](https://github.com/IkeKobby/). In this field of Data Science, I believe we can all become the versions of ourselves by holding on to the right resources. I will share a few of the most popular online resources that would be of great help to you. Every Data Scientist is also a googler, a problem solver and hence the need for reliable resources to help ease your sweat.
 
 The tables below should give you some quick online sources to run to for various solutions;
 
 ### Data Science related issues online resources
 | Blogs                                               | Related item      |   Description                                                |
-| --------                                            | ------          | ------------------------------------------------------------ |
-| [StachOverFlow](https://stackoverflow.com/)         | python          | Ask all data science, python related questions here          |
-| [StackExchange](https://stackexchange.com/)         |python/maths     |All coding, mathematics and other related questions here     |
-| [Jason Brownlee, PhD](machinelearningmastery.com/)  |ML, DL           | Machine learning, deep learning problems presented with code and vivid explanations |
+| --------                                            | ------            | ------------------------------------------------------------ |
+| [StachOverFlow](https://stackoverflow.com/)         | python            | Ask all data science, python related questions here          |
+| [StackExchange](https://stackexchange.com/)         |python/maths       | All coding, mathematics and other related questions here     |
+| [Jason Brownlee, PhD](machinelearningmastery.com/)  |ML, DL             | Machine learning, deep learning problems presented with code and vivid explanations |
 | [Medium](towardsdatascience.com/)                   | ML, DL, Motivations | Machine learning, Deep learning, best practices and state of the art domain knowledge|
 
 
