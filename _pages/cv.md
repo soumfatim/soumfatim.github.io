@@ -18,7 +18,7 @@ Education and Training
   * Machine Learning/Deep Learning 
     * Computer Vision
     * Natural Language Processing
-    * AI with Finance)
+    * AI with Finance
   * Database and Management System
   * Probability and Statistics
     * Descriptive Analysis for qualitative and quantitative data
