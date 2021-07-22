@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Click here for the pdf version](https://github.com/IkeKobby/ikekobby.github.io/blob/master/files/isaac_kobby_anni_CV.pdf)
+
 Education and Training
 ======
 **Academic skills acquired** 
