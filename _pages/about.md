@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "All you need to know about Kobby"
+title: "Who is Kobby?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
