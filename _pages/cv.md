@@ -91,14 +91,13 @@ Organisational Skills
 
 Certifications
 ======
-* 12/06/2021 – 01/07/2021: Udemy for Business Online Certificate of Completion
-  * Python and Machine Learning for financial analysis
-* 07/05/2021 – 21/05/2021: Udemy for Business Online Certificate of Completion
-  * Deep Learning and Computer Vision
-* 22/05/2021 – 30/05/2021: Udemy for Business Online Certificate of Completion
-  * Microsoft Power BI, Microsoft D100 Structured
-* 05/03/2021 – 13/07/2021: Udemy for Business Online Certificate of Completion
-  * TensorFlow Developer Certificate in 2021
+
+|Type                                               |Specilisation                                     |     Date              |
+|---------------------------------------------------|--------------------------------------------------|-----------------------|
+|Udemy for Business Online Certificate of Completion|Python and Machine Learning for financial analysis|12/06/2021 – 01/07/2021|
+|Udemy for Business Online Certificate of Completion|Deep Learning and Computer Vision                 |07/05/2021 – 21/05/2021|
+|Udemy for Business Online Certificate of Completion|Microsoft Power BI, Microsoft D100 Structured     |22/05/2021 – 30/05/2021|
+|Udemy for Business Online Certificate of Completion|TensorFlow Developer Certificate in 2021          |05/03/2021 – 13/07/2021|
 
 Language Skills
 ======
