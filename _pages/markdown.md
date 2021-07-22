@@ -10,7 +10,7 @@ For more details on some of the works that are not yet on this blog visit [here]
 
 The tables below should give you some quick online sources to run to for various solutions;
 
-### Data Science related issues online resources
+## Data Science related issues online resources
 | Blogs                                               | Related item      |   Description                                                                        |
 | :--------------------------------------------------:|:-----------------:|:------------------------------------------------------------------------------------:|
 | [StachOverFlow](https://stackoverflow.com/)         | python            | Ask all data science, python related questions here                                  |
