@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Isaac Kobby Anni, a Ghanaian by birth and lover of table tennis game. I am a goal-oriented individual who delivers to productivity. I believe that learning is a progressive lifestyle as long as life and economy matters. My profound interest in machine learning and its various applications in industry has been my ultimate motivator of continuous studies and exploration. I am humble, committed, adaptable, discipline, hardworking, confident and above all respectful individual. 
+I am Isaac Kobby Anni, a Ghanaian by birth and lover of table tennis game. I am a goal-oriented individual who delivers to productivity. I believe that learning is a progressive lifestyle as long as life and economy matters. My profound interest in machine learning and its various applications in industry has been my ultimate motivator of continuous studies and exploration. I am humble, committed, adaptable, discipline, hardworking, confident and above all respectful. 
 
 
 Currently I am completing my MSc in Mathematical Sciences at [African Institute for Mathematical Sciences-AIMS Senegal](https://aims-senegal.org/). I focused on Big Data & Finance with Machine learning and Deep learning being the techniques and skills applied to various problem solving and projects. I am also a past student of the [University for Development Studies, UDS-Navrongo Campus-Ghana](https://nav.uds.edu.gh/) which is currently the [C.K. Tedam University of Technology and Applied Sciences](https://cktutas.edu.gh/) where I had my Bachelors degree in Financial Mathematics and a research on [capital structure](https://www.investopedia.com/terms/c/capitalstructure.asp). 
