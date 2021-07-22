@@ -11,7 +11,9 @@ redirect_from:
 
 Education and Training
 ======
-**Academic skills acquired**
+**Academic skills acquired** 
+
+[African Institute for Mathematical Sciences, AIMS -Senegal](https://aims-senegal.org/)
 * MSc in Mathematical Sciences, 2020-2022 (expected)
   * Machine Learning/Deep Learning 
     * Computer Vision
@@ -22,7 +24,9 @@ Education and Training
     * Descriptive Analysis for qualitative and quantitative data
   * Data Mining and Big Data Analytics
   * Computational Finance
- 
+
+[University for Development Studies, UDS-Navrongo Campus](https://nav.uds.edu.gh/) 
+
 * B.Sc in Financial Mathematics, 2015-2019
   * Stock Pricing
   * Corporate Finance
@@ -31,22 +35,25 @@ Education and Training
 
 Work experience
 ======
+[Advans Ghana Savings & Loans Limited](https://www.advansghana.com/)
+
 * 2019-2020: Legal Administrative Assistant
-  * Advans Ghana Savings & Loans Limited
   * Duties included:
     * Preparation of mortgage, debenture, Hearing Notice, Affidavits, court letters etc.
     * Registration of mortgage, debenture and other land documents
     * Vehicle registration and change of ownership.
 
+[Newmont Goldcorp Corporation](https://newmont.com/)
+
 * June-September, 2018: Intern
-  * Newmont GoldCorp Corporation 
   * Duties included: 
     * Power Bill Analysis using Microsoft Excel
     * Power rate review using Microsoft Excel
     * Insurance Policy reviews
-  
+
+[Hillside School Complex](https://www.coursesghana.com/schools/12205-hillside-school-complex.aspx)
+
 * 2014-2015: Tutor
-  * Hillside SchooL Complex
   * Duties included: 
     * Mathematics and Science Tutor
     * Examination coordinator
