@@ -1,12 +1,11 @@
 ---
-permalink:
+permalink: 
 title: "Who is Kobby?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
- 
  
 ---
 I am Isaac Kobby Anni, a Ghanaian by birth and lover of table tennis game. I am a goal-oriented individual who delivers to productivity. I believe that learning is a progressive lifestyle as long as life and economy matters. My profound interest in machine learning and its various applications in industry has been my ultimate motivator of continuous studies and exploration. I am humble, committed, adaptable, discipline, hardworking, confident and above all respectful. 
