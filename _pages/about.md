@@ -1,5 +1,5 @@
 ---
-permalink:/
+permalink: /
 title: "Who is Kobby?"
 excerpt: "About me"
 author_profile: true
