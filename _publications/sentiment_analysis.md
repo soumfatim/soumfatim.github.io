@@ -1,7 +1,7 @@
 ---
 title: "Social Media Feeds on Stocks"
 type: mini-project
-permalink: /publication/2021-06-20
+permalink: /publication/2021-07-10
 excerpt: 'Sentiment Analysis'
 
 date: 2021-07-10
