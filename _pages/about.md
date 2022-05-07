@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who is Kobby?"
+title: "Who is Fanta?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,29 +8,30 @@ redirect_from:
   - /about.html
  
 ---
-I am Isaac Kobby Anni, a Ghanaian by birth and lover of table tennis game. I am a goal-oriented individual who delivers to productivity. I believe that learning is a progressive lifestyle as long as life and economy matters. My profound interest in machine learning and its various applications in industry has been my ultimate motivator of continuous studies and exploration. I am humble, committed, adaptable, discipline, hardworking, confident and above all respectful. 
+I am Soumahoro Fanta, of Ivorian nationality and a lover of reading.  I am a humble, committed, adaptable, disciplined, hardworking, confident and above all respectful person. I am goal-oriented and take into account productivity and a job well done. My goal is to use computer technologies (Machine learning, Natural Language Processing, Deep Learning , Computer Vision, Web Service, ...) to produce more intelligent applications that meet specific needs. I am currently enrolled in African Masters in Machine Intelligence (AMMI) which is sponsored by Google and Facebook(Meta) within the AIMS Institute. This program will be done soon.
 
 
-Currently I am completing my MSc in Mathematical Sciences at [African Institute for Mathematical Sciences-AIMS Senegal](https://aims-senegal.org/). I focused on Big Data & Finance with Machine learning and Deep learning being the techniques and skills applied to various problem solving and projects. I am also a past student of the [University for Development Studies, UDS-Navrongo Campus-Ghana](https://nav.uds.edu.gh/) which is currently the [C.K. Tedam University of Technology and Applied Sciences](https://cktutas.edu.gh/) where I had my Bachelors degree in Financial Mathematics and a research on [capital structure](https://www.investopedia.com/terms/c/capitalstructure.asp). 
+I completed my MSc degree in mathematical sciences at the [African Institute of Mathematical Sciences-AIMS Senegal] (https://aims-senegal.org/). I am focused on Big Data and Finance, Machine Learning, Deep Learning, Natural Language Processing being the techniques and skills applied to various projects and problem solving. I am also an alumnus of [Université Nangui Abrogoua, Abidjan](https://univ-na.ci/) where I obtained my bachelor degree in computer science and a Bac +4 in MIAGE.  
 
-I am currently leveraging Machine learning and Deep learning skills in the applications of Finance, Natural Language Processing and Computer Vision. I am passionate about data science related research and the study of mathematical models. I am on the verge of a climax of my thesis titled "Structural approach to credit risk modeling" supervise by [Dr. Conall Kelly](http://research.ucc.ie/profiles/D019/conall.kelly@ucc.ie). In this project we apply stochastic models of a company’s value to investigate the likelihood credit default events where the value of the company falls below the level of bankruptcy. We will consider exact solutions using the models of Merton and Black-Cox, as well as the role of simulation in generalising this framework outside of those models. 
+Currently I am leveraging my machine learning and deep learning skills in applications in finance, natural language processing, and computer vision. I am passionate about research related to artificial intelligence in the fields of finance, health and agriculture. I have completed my thesis entitled "Parallelization of truth finding algorithms", supervised by Dr. Mouhamadou Lamine Ba (https://sites.google.com/a/uadb.edu.sn/mlba/). In this project, we carry out an in-depth study of these algorithms by classifying them into parallelizable and non-parallelizable algorithms. We have proposed a parallel version of the TruthFinder truth-finding algorithm (Yin and Al, 2008).
 
-My daily activities involve researching, learning and creating of new materials that help improve my skills and studies. On my [Github](https://github.com/IkeKobby) I have a few materials of my day to day activities in the respective repositories which are often updated as and when the need arises. 
-
-I am available for collaboration on projects that relate to my areas of interest mentioned above. However, I am curious to apply my skills in any field as long as the problem is addressable and interpretable in the machine learning and deep learning world.
+ I am available to collaborate on projects related to my above mentioned areas of interest. However, I am curious to apply my skills in any area as long as the problem is addressable and interpretable in the world of Natural Language Processing, Machine Learning and Deep Learning.
 
 ---
 ### Research Interests
 - AI with Finance  
 - Computer Vision
 - Natural Language Processing
+- Deep Learning
+- Computer Vision
 
 ---
 
 ### Contacts
-- Phone: (+221) 77 571 2158 (Senegal) 
-- Email: isaac.k.anni@aims-senegal.org
-- WhatsApp: (+233) 50 119 9601 (Ghana) 
+- Phone: (+221) 78 123 88 64 (Senegal) 
+- Email: fsoumahoro@aimsammi.org
+- Email: fanta.soumahoro@aims-senegal.org
+- WhatsApp: (+225) 07 79 582 950 (Côte d'Ivoire) 
 
 ---
 Good read!!!
