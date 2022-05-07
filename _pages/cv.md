@@ -9,14 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for the pdf version](https://github.com/IkeKobby/ikekobby.github.io/blob/master/files/isaac_kobby_anni_CV.pdf)
+[Click here for the pdf version](https://github.com/soumfatim/soumfatim.github.io/blob/master/files/Soumahoro_Fanta_CV.pdf)
 
 Education and Training
 ======
 **Academic skills acquired** 
 
+[African Institute for Mathematical Sciences, AIMS -Senegal](https://aimsammi.org/)
+* MSc in Machine Intelligence, 2022 (expected)
+  * Machine learning 
+  * Deep learning
+  * Computer Vision
+  * Natural Language Processing
+  * Reinforcement Learning
+
 [African Institute for Mathematical Sciences, AIMS -Senegal](https://aims-senegal.org/)
-* MSc in Mathematical Sciences, 2020-2022 (expected)
+* MSc in Mathematical Sciences, 2020-2022
   * Machine Learning/Deep Learning 
     * Computer Vision
     * Natural Language Processing
@@ -27,68 +35,49 @@ Education and Training
   * Data Mining and Big Data Analytics
   * Computational Finance
 
-[University for Development Studies, UDS-Navrongo Campus](https://nav.uds.edu.gh/) 
-
-* B.Sc in Financial Mathematics, 2015-2019
-  * Stock Pricing
-  * Corporate Finance
-  * Financial Management
-
+[Nangui Abrogoua University, Abidjan-Cote D’Ivoire](https://univ-na.ci/)
+* BSc Computer Science
+  * Web Development
+  * Stock Management
+  * Accounting
+  * Computer Network
 
 Work experience
 ======
-[Advans Ghana Savings & Loans Limited](https://www.advansghana.com/)
+[Nadji.Bi Group Senegal, Mbour-Senegal](https://www.nadjibi.com/)
 
-* 2019-2020: Legal Administrative Assistant
-  * Duties included:
-    * Preparation of mortgage, debenture, Hearing Notice, Affidavits, court letters etc.
-    * Registration of mortgage, debenture and other land documents
-    * Vehicle registration and change of ownership.
-
-[Newmont Goldcorp Corporation](https://newmont.com/)
-
-* June-September, 2018: Intern
-  * Duties included: 
-    * Power Bill Analysis using Microsoft Excel
-    * Power rate review using Microsoft Excel
-    * Insurance Policy reviews
-
-[Hillside School Complex](https://www.coursesghana.com/schools/12205-hillside-school-complex.aspx)
-
-* 2014-2015: Tutor
-  * Duties included: 
-    * Mathematics and Science Tutor
-    * Examination coordinator
-    * Account Clerk
+* 2021-Today: Junior Web Developer
+  * Data manipulation
+  * Technology:Angular
+  * language:TypeScript, HTML, CSS, Javascript.
   
 Skills
 ======
 * Soft skills
-  * Good communication skills (written and verbal).
-  * Good interpersonal relation.
   * Diligence and dedication to work.
   * Organizational and planning skills.
+  * Good communication skills (written and verbal).
+  * Good interpersonal relation.
+
 * Programming skills
   * Latex
   * Python
     * PyTorch 
     * Tensorflow 
-  * R, SQL, MongoDB, MySQL
+  * R, SQL, MongoDB, MySQL, Pyspark
+  * HTML, CSS, Typescript, PHP, Bootstrap
 * Business Intelligence
    * Microsoft Excel & Power BI
    * Tableau
 
 Organisational Skills
 ======
+* Organising, planning and scheduling work and activities
+    * establish daily priorities
 * Management skills
   * Developing objectives and strategies
-    * develop strategy to solve problems
-  * Organising, planning and scheduling work and activities
-    * establish daily priorities
 * Communication, collaboration and creativity
   * Working with others
-    * follow given instructions
-    * work as a team
 
 
 Certifications
@@ -96,15 +85,18 @@ Certifications
 
 |Type                                               |Specilisation                                     |     Date              |
 |---------------------------------------------------|--------------------------------------------------|-----------------------|
-|Udemy for Business Online Certificate of Completion|Python and Machine Learning for financial analysis|12/06/2021 – 01/07/2021|
-|Udemy for Business Online Certificate of Completion|Deep Learning and Computer Vision                 |07/05/2021 – 21/05/2021|
-|Udemy for Business Online Certificate of Completion|Microsoft Power BI, Microsoft D100 Structured     |22/05/2021 – 30/05/2021|
-|Udemy for Business Online Certificate of Completion|TensorFlow Developer Certificate in 2021          |05/03/2021 – 13/07/2021|
+|Inria and published on the platform FUN            |Machine learning in python with scikit-learn.     |15 - 07 - 2021|
+|Coursera                                           |Tools for Data Science                            |11 - 06 - 2021|
+|IBM                                                |Cloud intro                                       |28 - 05 - 2021|
+|Coursera                                           |Introduction to Big Data                          |14 - 04 - 2021|
+|IBM                                                |Data Science and Analytics Intro                  |13 - 04 - 2021|
+|IBM                                                |Coding Intro                                      |20 - 03 - 2021|
+|OpenClassroom                                      |Learn about Machine Learning                      |17 - 01 - 2021|
 
 Language Skills
 ======
-* Advanced: English
-* Basic   : French
+* Advanced: French
+* Intermediate: English
 
 
 
