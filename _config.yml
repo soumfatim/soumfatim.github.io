@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Isaac Kobby Anni"
+title                    : "Soumahoro Fanta"
 title_separator          : "-"
-name                     : &name "Isaac Kobby Anni"
+name                     : &name "Soumahoro Fanta"
 description              : &description "personal description"
-url                      : https://ikekobby.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://soumfatim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ikekobby/ikekobby.github.io"
+repository               : "soumfatim/soumfatim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Isaac Kobby Anni', 'isaackobbyanni@gmail.com', 'https://ikekobby.github.io']
+  allowedFields          : ['Soumahoro Fanta', 'soumfatim163@gmail.com', 'https://soumfatim.github.io']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Isaac Kobby Anni"
-  avatar           : "profile.jpg"
-  bio              : "Learning is a progressive lifestyle"
-  location         : "Senegal, ATM."
+  name             : "Soumahoro Fanta"
+  avatar           : "profile.jpeg"
+  bio              : "Everything is possible if we believe"
+  location         : "Senegal, Mbour."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "isaackobbyanni@gmail.com"
+  email            : "soumfatim163@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ikekobby"
+  github           : "soumfatim"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/isaac-kobby-anni-018b58153/"
+  linkedin         :"https://www.linkedin.com/in/soumahoro-fanta-2407951a9/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@annqwabena"
+  twitter          : #"@annqwabena"
   vine             :
   weibo            :
   xing             :
