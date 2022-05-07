@@ -1,4 +1,16 @@
 ---
+title: 'Joined AMMI programme, Senegal'
+date: 2022-01-17
+permalink: /posts/2012/08/blog-post-5/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+I have been accepted by the African Institute for Mathematical Sciences, Senegal for master's in Machine Intelligence. 
+
+---
 title: 'Joined AIMS Cooperative programme, Senegal'
 date: 2020-10-07
 permalink: /posts/2012/08/blog-post-4/
